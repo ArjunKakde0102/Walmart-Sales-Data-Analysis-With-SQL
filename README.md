@@ -10,6 +10,6 @@ The dataset wad obtained from the [Kaggle Walmart Forecasting Competition](https
 
 This is a table:
 
-1 | 2 | 3 |
+| 1 | 2 | 3 |
 
 
