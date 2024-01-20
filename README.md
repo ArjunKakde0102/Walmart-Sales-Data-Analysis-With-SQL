@@ -59,3 +59,11 @@ This is a table:
 
 4. Conclusion:
 
+
+
+## Business Question To Answer
+### Generic Question
+1. How many unique cities does the data have ?
+
+2. In which city is each branch ?
+
