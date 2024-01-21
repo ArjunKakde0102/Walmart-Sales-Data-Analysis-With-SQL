@@ -76,3 +76,11 @@ This is a table:
 
 4. What is the total revenue by month ?
 
+5. What month had the largest COGS ?
+
+6. What product line had the largest revenue ?
+
+7. What is the city with largest revenue ?
+
+8. What product line had the largest VAT ?
+9. 
