@@ -83,4 +83,11 @@ This is a table:
 7. What is the city with largest revenue ?
 
 8. What product line had the largest VAT ?
-9. 
+
+9. Fetch each product line and add a column to those product line showing "Good", "Bad".Good if it's better than average sales.
+
+10. which branch sold more products than average product sold ?
+
+11. What is the most comman product line by gender ?
+
+12. What is the average rating of each product line ?
