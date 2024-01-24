@@ -87,7 +87,26 @@ This is a table:
 9. Fetch each product line and add a column to those product line showing "Good", "Bad".Good if it's better than average sales.
 
 10. which branch sold more products than average product sold ?
-
+    
 11. What is the most comman product line by gender ?
-
+   
 12. What is the average rating of each product line ?
+
+### Sales 
+1. Number of sales made in each time of the day per weekday ?
+
+2.  Which of the customer types brings the most revenue ?
+
+3.  Which city has the largest tax percnentage/ VAT (Value Added Tax) ?
+
+4.  Which customer type pays the most in VAT ?
+
+
+### Customer
+1. How many unique type customer does the data have ?
+
+2. How many unique payment method does the data have ?
+
+3. What is the most common customer type ?
+
+4. Which customer type buys the most
