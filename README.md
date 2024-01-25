@@ -109,4 +109,16 @@ This is a table:
 
 3. What is the most common customer type ?
 
-4. Which customer type buys the most
+4. Which customer type buys the most ?
+
+5. what is the gender of most of the customers ?
+
+6. what is the gender distribution per branch ?
+
+7. which time of the day do customers gives most ratings ?
+
+8. which time of the day do customers give most ratings per branch ?
+
+9. which day of the week has the best avg rating ?
+
+10. which day of the week has the best avg rating per branch ?
