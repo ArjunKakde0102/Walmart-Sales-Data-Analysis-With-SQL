@@ -129,7 +129,7 @@ FROM sales
 GROUP BY product_line
 ORDER BY COUNT(product_line) DESC;
 
-/* I have seen new column name as quantity so I am using quantity column as it can show how many product are sold */
+
 SELECT 
 	product_line,
     SUM(quantity) AS total_quantity
